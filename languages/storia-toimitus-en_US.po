@@ -1,0 +1,108 @@
+# Blank WordPress Pot
+# Copyright 2014 ...
+# This file is distributed under the GNU General Public License v3 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Blank WordPress Pot v1.0.0\n"
+"Report-Msgid-Bugs-To: Translator Name <translations@example.com>\n"
+"POT-Creation-Date: 2024-09-19 11:01+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Your Team <translations@example.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Textdomain-Support: yesX-Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;esc_html_e;esc_html_x:1,2c;esc_html__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;"
+"_x:1,2c;_n:1,2;_n_noop:1,2;__ngettext:1,2;__ngettext_noop:1,2;_c,_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Generator: Poedit 3.4.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: api-key-generation/kvtoimitus-api-key-generation.php:18
+#: api-key-generation/kvtoimitus-api-key-generation.php:19
+msgid "Storia"
+msgstr "Storia"
+
+#: api-key-generation/kvtoimitus-api-key-generation.php:47
+msgid "Api-avaimen luonti"
+msgstr "API Key Generation"
+
+#: api-key-generation/kvtoimitus-api-key-generation.php:49
+msgid ""
+"Luo tästä API-avain ja toimita se sen jälkeen Storia Logistiikkaan. Api-"
+"avain mahdollistaa Storian toiminnoille pääsyn tarvittaviin tilausten "
+"tietoihin."
+msgstr ""
+"Generate an API-key and deliver it to Storia. API-key allows Storia to "
+"access necessary order information."
+
+#: api-key-generation/kvtoimitus-api-key-generation.php:50
+msgid ""
+"Jos luot uuden API-avaimen, vanhan avaimen toiminta lakkaa ja yhteys "
+"katkeaa. Pidä huoli, että Storialla on tiedossaan ajantasainen API-avain."
+msgstr ""
+"If you generate a new API key, the old key will be unactivated. Make sure "
+"Storia has the most recent API key."
+
+#: api-key-generation/kvtoimitus-api-key-generation.php:55
+msgid "Luo uusi API-avain"
+msgstr "Generate a new API-key"
+
+#: api-key-generation/kvtoimitus-api-key-generation.php:69
+msgid "Api-avain on: "
+msgstr "API key is: "
+
+#~ msgid "API-avaimen luonti"
+#~ msgstr "API Key Generation"
+
+#~ msgid "Tilausten seuranta"
+#~ msgstr "Order status"
+
+#~ msgid "Storia tilausten seuranta"
+#~ msgstr "Storia order status"
+
+#~ msgid ""
+#~ "Voit seurata tästä viimeisimpien toimitusten tilannetta. Yli 60 päivää "
+#~ "vanhemmat tilaukset löytyvät WooCommerce valikon takaa."
+#~ msgstr ""
+#~ "The most recent orders and their statuses are listed here. Orders made "
+#~ "over 60 days ago can be viewed in WooCommerce menu."
+
+#, php-format
+#~ msgid "Tilaus #%s"
+#~ msgstr "Order #%s"
+
+#~ msgid "Tila:"
+#~ msgstr "Status:"
+
+#~ msgid "Tuotteet"
+#~ msgstr "Products"
+
+#~ msgid "määrä:"
+#~ msgstr "quantity:"
+
+#~ msgid "Tilauksia ei löytynyt."
+#~ msgstr "No orders found."
+
+#~ msgid "Sinulla ei ole oikeuksia tähän sisältöön."
+#~ msgstr "You have no access to this content."
+
+#~ msgid "WooCommercea ei ole aktivoitu."
+#~ msgstr "WooCommerce has not been activated."
+
+#~ msgid "Kirjavälitys"
+#~ msgstr "Kirjavälitys"
+
+#~ msgid "Kirjavälitys tilausten seuranta"
+#~ msgstr "Kirjavälitys Order Status"
+
+#~ msgid "Hae nykyinen avain"
+#~ msgstr "Read current key"
+
+#~ msgid "Voit seurata tästä toimitusten tilannetta."
+#~ msgstr "You can follow the status of the orders."
